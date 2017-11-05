@@ -25,6 +25,7 @@ public static class player{
     public static int ATK=15;//攻击
     public static int DEF=5;//防御
     //此行由家里电脑编写
+    //此行由笔记本编写
 
     public static int empiric=0;//经验
     public static int empiricLevelUp=100;//升级所需经验
