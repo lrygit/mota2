@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: f236f9bf08e3a784f8a40a6a5f097441
+timeCreated: 1499682700
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: motaAt_0
+    21300002: motaAt_1
+    21300004: motaAt_2
+    21300006: motaAt_3
+    21300008: motaAt_4
+    21300010: motaAt_5
+    21300012: motaAt_6
+    21300014: motaAt_7
+    21300016: motaAt_8
+    21300018: motaAt_9
+    21300020: motaAt_10
+    21300022: motaAt_11
+    21300024: motaAt_12
+    21300026: motaAt_13
+    21300028: motaAt_14
+    21300030: motaAt_15
+    21300032: motaAt_16
+    21300034: motaAt_17
+    21300036: motaAt_18
+    21300038: motaAt_19
+    21300040: motaAt_20
+    21300042: motaAt_21
+    21300044: motaAt_22
+    21300046: motaAt_23
+    21300048: motaAt_24
+    21300050: motaAt_25
+    21300052: motaAt_26
+    21300054: motaAt_27
+    21300056: motaAt_28
+    21300058: motaAt_29
+    21300060: motaAt_30
+    21300062: motaAt_31
+    21300064: motaAt_32
+    21300066: motaAt_33
+    21300068: motaAt_34
+    21300070: motaAt_35
+    21300072: motaAt_36
+    21300074: motaAt_37
+    21300076: motaAt_38
+    21300078: motaAt_39
+    21300080: motaAt_40
+    21300082: motaAt_41
+    21300084: motaAt_42
+    21300086: motaAt_43
+    21300088: motaAt_44
+    21300090: motaAt_45
+    21300092: motaAt_46
+    21300094: motaAt_47
+    21300096: motaAt_48
+    21300098: motaAt_49
+    21300100: motaAt_50
+    21300102: motaAt_51
+    21300104: motaAt_52
+    21300106: motaAt_53
+    21300108: motaAt_54
+    21300110: motaAt_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 2
+    aniso: 4
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 1
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: motaAt_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 484
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 484
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 484
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 484
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 450
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 450
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 450
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 450
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 418
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 418
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 418
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 418
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 386
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 386
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 355
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 355
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 355
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 355
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 322
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 322
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 322
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 325
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 293
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 293
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 293
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 293
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 256
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 258
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 260
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 226
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 226
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 225
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 195
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 197
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_36
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 197
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 193
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_40
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 161
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 160
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 96
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 34
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 33
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_52
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_53
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 33
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: motaAt_55
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
