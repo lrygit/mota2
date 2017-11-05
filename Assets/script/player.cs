@@ -24,7 +24,7 @@ public static class player{
     public static int HP=500;//生命
     public static int ATK=15;//攻击
     public static int DEF=5;//防御
-    //此行由家里电脑编写
+    //此行由家里电脑编写，并在此修改
     //此行由笔记本编写
 
     public static int empiric=0;//经验
