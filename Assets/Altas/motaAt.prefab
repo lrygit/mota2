@@ -42,11 +42,50 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   material: {fileID: 2100000, guid: e606330dbcfd3ba4fb3907fabbf2e7e8, type: 2}
   mSprites:
+  - name: Arrow_mota
+    x: 3661
+    y: 1818
+    width: 246
+    height: 123
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 2
+    paddingTop: 3
+    paddingBottom: 2
   - name: bluekey
-    x: 33
-    y: 38
+    x: 3218
+    y: 1104
     width: 27
     height: 26
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: cur_mota
+    x: 3478
+    y: 1202
+    width: 54
+    height: 75
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: index
+    x: 0
+    y: 0
+    width: 1536
+    height: 2048
     borderLeft: 0
     borderRight: 0
     borderTop: 0
@@ -56,8 +95,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: redkey
-    x: 0
-    y: 5
+    x: 3246
+    y: 1104
     width: 27
     height: 26
     borderLeft: 0
@@ -68,9 +107,22 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: save
+    x: 1537
+    y: 1103
+    width: 1680
+    height: 945
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: touxiang
-    x: 0
-    y: 32
+    x: 3478
+    y: 1169
     width: 32
     height: 32
     borderLeft: 0
@@ -82,10 +134,49 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: yellewkey
-    x: 28
-    y: 5
+    x: 3274
+    y: 1104
     width: 27
     height: 26
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "\u4E0B\u62C9\u6846"
+    x: 3218
+    y: 1278
+    width: 442
+    height: 770
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "\u5708\u5708"
+    x: 3661
+    y: 1942
+    width: 292
+    height: 106
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: "\u83DC\u5355"
+    x: 3218
+    y: 1131
+    width: 259
+    height: 146
     borderLeft: 0
     borderRight: 0
     borderTop: 0
