@@ -246,7 +246,7 @@ MonoBehaviour:
   pixelSnap: 0
   onClick:
   - mTarget: {fileID: 413037987}
-    mMethodName: 
+    mMethodName: quit
     mParameters: []
     oneShot: 0
 --- !u!1 &411602703
@@ -436,7 +436,6 @@ MonoBehaviour:
   old_panel: {fileID: 1082473067}
   confirm_panel: {fileID: 1230014902}
   confirm_flag: 0
-  isOperation: 0
 --- !u!1 &790959140
 GameObject:
   m_ObjectHideFlags: 0
@@ -1114,7 +1113,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1230014903
 Transform:
   m_ObjectHideFlags: 0
@@ -1670,6 +1669,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1968746254}
   - component: {fileID: 1968746255}
+  - component: {fileID: 1968746256}
   m_Layer: 8
   m_Name: quit_bg
   m_TagString: Untagged
@@ -1724,7 +1724,7 @@ MonoBehaviour:
   mHeight: 134
   mDepth: 0
   mMat: {fileID: 0}
-  autoResizeBoxCollider: 0
+  autoResizeBoxCollider: 1
   hideIfOffScreen: 0
   keepAspectRatio: 0
   aspectRatio: 1.7014925
@@ -1744,3 +1744,15 @@ MonoBehaviour:
   mAtlas: {fileID: 11456364, guid: e9423b67f9995244fb9d927b3f11e2c2, type: 2}
   mSpriteName: quit
   mFillCenter: 1
+--- !u!65 &1968746256
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1968746253}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 9999, y: 9999, z: 0}
+  m_Center: {x: 0, y: 0, z: 0}
