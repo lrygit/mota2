@@ -6,9 +6,11 @@ public class index : MonoBehaviour {
 
     public GameObject old_panel;
     public GameObject confirm_panel;
+    public bool confirm_flag;
+    public bool isOperation;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
         UIEventListener.Get(GameObject.Find("UI Root").transform.Find("option_new").gameObject).onHover +=on_hover;
         UIEventListener.Get(GameObject.Find("UI Root").transform.Find("option_old").gameObject).onHover += on_hover;
         UIEventListener.Get(GameObject.Find("UI Root").transform.Find("option_quit").gameObject).onHover += on_hover;
@@ -30,11 +32,13 @@ public class index : MonoBehaviour {
         old_panel.SetActive(true);
     }
 
-    public void show_Confirm() {
-
+    public void operation_confirm(GameObject g1) {
+        confirm_flag = bool.Parse (g1.name);
+        isOperation = true;
     }
 
+     
     public void quit() {
-
+        confirm_panel.SetActive(true);
     }
 }
